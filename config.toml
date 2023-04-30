@@ -1,4 +1,4 @@
-baseURL = 'https://minjikarin.github.io/myblog/'
+baseURL = 'https://minjikarin.github.io'
 languageCode = 'en-us'
 title = 'Minji KIM'
 theme = 'cactus'
