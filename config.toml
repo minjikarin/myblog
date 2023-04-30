@@ -1,4 +1,42 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://minjikarin.github.io/myblog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "cactus"
+title = 'Minji KIM'
+theme = 'cactus'
+copyright = 'Minji KIM'
+
+[params]
+    colortheme = "white" # dark, light, white, or classic
+    description = "Hi! I'm Minji KIM, a developer advocate at Amadeus for Developers. With over 7 years of experience working abroad, I have a passion for travel, cultural differences, and technology. I mainly help developers build travel applications with Amadeus Travel APIs more efficiently by providing technical materials. I am also fascinated by the world of Open Source, where everyone helps each other and contributes to the community with trust and a common belief. I also love understanding different cultures by traveling. I am from South Korea, living in France since I moved from Thailand after 6 years. This website is for you to check my contents from everywhere. Enjoy!"
+    mainSection = "posts"
+    mainSectionTitle = "My Contents"
+    showAllPostsOnHomePage = true
+    showAllPostsArchive = true # or false (default)
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blogs & Videos"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Talks"
+url = "/talks"
+weight = 3
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/minjikarin"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/Minkarin4"
+
+[[params.social]]
+  name = "email"
+  link = "km.minjikim@gmail.com"
