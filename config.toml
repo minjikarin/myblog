@@ -6,7 +6,7 @@ copyright = 'Minji KIM'
 
 [params]
     colortheme = "white" # dark, light, white, or classic
-    description = "Hi! I'm Minji KIM, a developer advocate at Amadeus for Developers. With over 7 years of experience working abroad, I have a passion for travel, cultural differences, and technology. I mainly help developers build travel applications with Amadeus Travel APIs more efficiently by providing technical materials. I am also fascinated by the world of Open Source, where everyone helps each other and contributes to the community with trust and a common belief. I also love understanding different cultures by traveling. I am from South Korea, living in France since I moved from Thailand after 6 years. This website is for you to check my contents from everywhere. Enjoy!"
+    description = "Hi! I'm Minji KIM, a developer advocate at Amadeus for Developers. With over 7 years of experience working abroad, I have a passion for travel, cultural differences, and technology. I mainly help developers build travel applications with Amadeus Travel APIs more efficiently by providing technical materials. I am also fascinated by the Open-Source world, where people contribute their skills and knowledge to help each other, fostering a sense of trust and a shared vision. I also love understanding different cultures by traveling. I am from South Korea, working in France after a 6-year stint in Thailand. This website is for you to check my contents from everywhere. Enjoy!"
     mainSection = "posts"
     mainSectionTitle = "My Contents"
     showAllPostsOnHomePage = true
